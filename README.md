@@ -1,5 +1,5 @@
-<h1 align="center"> 👋 Hi, I'm Priscila!</h1>
-<h3 align="center">Bachelor's degree in Software Engineering and Bachelor's degree in Business Administration. Passionate about technology and in career transition.</h3>
+<h1 align="center"> 👋 Olá@ Eu sou a Priscila!</h1>
+<h3 align="center">Bacharela em Administração e Graduanda em Engenharia de Software. Acompanhe-me na minha transição de carreira!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
