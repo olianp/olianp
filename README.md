@@ -1,5 +1,6 @@
 <h1 align="center"> 👋 Olá! Eu sou a Priscila!</h1>
-<h3 align="center">Bacharela em Administração e Graduanda em Engenharia de Software. Acompanhe-me na minha transição de carreira!</h3>
+<h3 align="center">Bacharela em Administração e Graduanda em Engenharia de Software.</h3>
+<h3 align="center">Acompanhe-me na minha transição de carreira!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
