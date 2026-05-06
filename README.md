@@ -1,35 +1,115 @@
-<h1 align="center"> 👋 Olá! Eu sou a Priscila!</h1>
-<h3 align="center">Bacharela em Administração e Graduanda em Engenharia de Software.</h3>
-<h3 align="center">Acompanhe-me na minha transição de carreira!</h3>
+<!-- HEADER -->
+<h1 align="center">Priscila Andrade</h1>
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
-
-
+<p align="center">
+  SAP IS-U • Data Engineering • Analytics
 </p>
 
- <h3 align="left">My Projects</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20SAP-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Profile-Engineering%20Mindset-6E7B8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20SAP-C0C0C0?style=for-the-badge"/>
+</p>
 
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=olianp&repo=pythonproject-exercicios&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/olianp/pythonproject-exercicios)
- 
- <h3 align="left">GitHub Stats</h3>
+---
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=olianp&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olianp&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+## Sobre mim
+
+Bacharela em **Administração** e graduanda em **Computação**, com atuação em **SAP IS-U (Billing & Invoicing)** no setor elétrico.
+
+Experiência na análise e resolução de inconsistências de faturamento, conectando regras de negócio com estruturas de dados.  
+Atuação orientada à eficiência operacional, qualidade da informação e automação de processos.
+
+Foco em **engenharia e análise de dados**, com abordagem prática aplicada a cenários reais.
+
+---
+
+## Core Stack
+
+### SAP & Business
+
+<p>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+</p>
+
+SAP IS-U (Billing & Invoicing)  
+FI-CA (integração)  
+Processos do setor elétrico  
+Análise de faturamento  
+
+---
+
+### Data & Engineering
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
+</p>
+
+Python (automação e análise)  
+SQL (consulta, manipulação e validação)  
+Modelagem de dados  
+ETL / transformação de dados  
+
+---
+
+### Data Stack & Ferramentas
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="35"/>
+</p>
+
+PostgreSQL • MySQL  
+MongoDB (NoSQL)  
+Pandas  
+Estruturação de pipelines de dados  
+
+---
+
+### Ferramentas & Ambiente
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35"/>
+</p>
+
+Git • Linux  
+VS Code • PyCharm  
+
+---
+
+## Experiência
+
+Ambiente de sustentação (AMS) com SAP IS-U  
+Análise e resolução de erros de faturamento  
+Interpretação de dados operacionais  
+Identificação de padrões e inconsistências  
+
+---
+
+## Atuação Técnica
+
+Estruturação e análise de dados operacionais  
+Consultas SQL para investigação e validação  
+Automação de processos com Python  
+Preparação e organização de dados  
+
+---
+
+## Projetos
+
+Em desenvolvimento: projetos voltados para engenharia e análise de dados aplicados a cenários reais de negócio.
+
+---
+
+## Contato
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
