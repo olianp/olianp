@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20%26%20SAP-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Profile-Engineering%20Mindset-6E7B8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20SAP-C0C0C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20SAP%20IS--U-C0C0C0?style=for-the-badge"/>
 </p>
 
 ---
@@ -30,12 +30,14 @@ Foco em **engenharia e análise de dados**, com abordagem prática aplicada a ce
 
 <p>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ABAP-6E7B8B?style=for-the-badge"/>
 </p>
 
 SAP IS-U (Billing & Invoicing)  
 FI-CA (integração)  
 Processos do setor elétrico  
-Análise de faturamento  
+Análise de inconsistências de faturamento  
+Debug técnico (ABAP)   
 
 ---
 
